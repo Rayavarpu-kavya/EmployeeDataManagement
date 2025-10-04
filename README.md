@@ -22,16 +22,15 @@ Employee Data Management is a simple CRUD application that allows users to add, 
 
 1. Clone the repository:
 git clone https://github.com/Rayavarpu-kavya/EmployeeDataManagement.git
-
 cd EmployeeDataManagement
 
-3. Install dependencies:
+2. Install dependencies:
 npm install
 
-4. Start the development server:
+3. Start the development server:
 npm start
 
-5. Start JSON Server if using:
+4. Start JSON Server if using:
 npx json-server --watch db.json --port 5000
 
 
